@@ -7,14 +7,14 @@
     <language>en</language>
     <item>
       <title>Version 0.3.0</title>
-      <pubDate>Thu, 05 Feb 2026 12:34:31  +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 20:35:20  +0000</pubDate>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/akoskomuves/kumano-releases/releases/download/v0.3.0/Kumano.zip"
-        sparkle:edSignature="bXFOuYpbQRIdMVAX1pbWxWPH9XgPxvlJCEFtAQYCWfg91F2wlhVTfbj3uMLwBedwoT/Mgt/jKOvNRAfi9GSnDg=="
-        length="16921029"
+        sparkle:edSignature="fffesygDXp/AZxIlYi5BnXtl/v4lLrLiib5muvM4dumZwk+V+efjiOoiHHdQc0zZlGCr15Wcey3KlydE03UqCw=="
+        length="17715085"
         type="application/octet-stream" />
     </item>
   </channel>
