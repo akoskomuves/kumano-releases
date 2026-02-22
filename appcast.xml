@@ -6,15 +6,15 @@
     <description>Updates for Kumano</description>
     <language>en</language>
     <item>
-      <title>Version 0.4.0</title>
-      <pubDate>Fri, 06 Feb 2026 17:33:55  +0000</pubDate>
+      <title>Version 0.5.1</title>
+      <pubDate>Sun, 22 Feb 2026 11:58:41  +0000</pubDate>
       <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/akoskomuves/kumano-releases/releases/download/v0.4.0/Kumano.zip"
-        sparkle:edSignature="r53dIMBgFJ/9xkFWgeNim60sniN6YSwfHT+rASBzdM4UyKIcTigInmGQ0oZ2n25ZDNPIKS8pfeWsoc2shImOCw=="
-        length="17775918"
+        url="https://github.com/akoskomuves/kumano-releases/releases/download/v0.5.1/Kumano.zip"
+        sparkle:edSignature="b079u90h4RgDdO1OdR4B/u01N3J75vPz953ZRy3T4P+5IZFqFvpX6dTjFDPXilAEhn1CYgUG5N2hXAECmuIPAg=="
+        length="18726760"
         type="application/octet-stream" />
     </item>
   </channel>
